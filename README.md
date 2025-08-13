@@ -1,4 +1,3 @@
-
 <html>
 <head>
   <title>RESUME</title>
@@ -24,8 +23,7 @@ table, th, td { border: 1px solid #555; padding: 8px; text-align: left; }
 
 ul { margin-top: 5px; padding-left: 20px; }
   </style>
-
-</head>
+  </head>
 <body>
 
   <h1>KAMATHAM VARSHITHA</h1>
